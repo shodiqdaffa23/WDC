@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-grid"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cle",
+				"clear	(demo.css)"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"tras",
+				"transform	(demo.css)"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"f",
+				"flex-wrap"
+			],
+			[
+				"rand",
+				"random5"
+			],
+			[
+				"ran",
+				"random2"
+			],
+			[
+				"de",
+				"device2"
+			],
+			[
+				"device",
+				"device2"
+			],
+			[
+				"nama",
+				"nama_device"
+			],
+			[
+				"qure",
+				"query_select"
+			],
+			[
+				"em",
+				"embed	<embed>"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"jenis",
+				"jenis_obat"
+			],
+			[
+				"data",
+				"data_obat"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"id",
+				"id_obat"
+			],
+			[
+				"nam",
+				"nama_obat"
+			],
+			[
+				"har",
+				"harga_jual"
+			],
+			[
+				"ra",
+				"readonly	(edit.php)"
+			],
+			[
+				"na",
+				"nama_jenis"
+			],
+			[
+				"jeis",
+				"Jenis"
+			],
+			[
+				"query",
+				"query_insert"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"quer",
+				"query_update"
+			],
+			[
+				"re",
+				"readonly"
+			],
+			[
+				"id_",
+				"id_buku"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"tamba",
+				"tambah_databuku"
+			],
+			[
+				"view",
+				"view_databuku"
+			],
+			[
+				"tam",
+				"tambah_penerbit"
+			],
+			[
+				"ke",
+				"ket"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"javasc",
+				"javascript:void	(index.php)"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"inne",
+				"innerHTML	Element"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"li",
+				"lis-n	list-style: none;"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"qe",
+				"query_select	(view_penerbit.php)"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"da",
+				"dapatkan"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"capt",
+				"captcha"
+			],
+			[
+				"cap",
+				"captcha"
+			],
+			[
+				"imgcrea",
+				"imagecreate"
+			],
+			[
+				"imagett",
+				"imagettftext"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"met",
+				"method	Attr"
+			],
+			[
+				"trasn",
+				"transition"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"foot",
+				"footer	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"clear",
+				"clear:both	(index.php)"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tex-t",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"is",
+				"isset	(shorten.php)"
+			],
+			[
+				"loca",
+				"location:add"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ins",
+				"insert_query"
+			],
+			[
+				"val",
+				"value	Attr"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"tabl",
+				"table	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"location",
+				"location:index	(login.php)"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"table",
+				"table	(style.css)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style/css/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 2686,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 330.0,
+		"last_filter": "au",
+		"selected_items":
+		[
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html 5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/MAMP/htdocs/WDC",
+		"/E/MAMP/htdocs/WDC/style",
+		"/E/MAMP/htdocs/WDC/style/css",
+		"/E/MAMP/htdocs/WDC/style/css/font",
+		"/E/MAMP/htdocs/WDC/style/css/sass"
+	],
+	"file_history":
+	[
+		"/C/Users/AyatMaulana-PC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/AyatMaulana-PC/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/AyatMaulana-PC/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/E/MAMP/htdocs/WDC/style/css/style.css",
+		"/E/MAMP/htdocs/WDC/style/css/sass/main.scss",
+		"/E/MAMP/htdocs/WDC/style/header.php",
+		"/E/Downloads/________new/Compressed/masonry_with_css/masonry_with_css/index.html",
+		"/E/MAMP/htdocs/WDC/style/footer.php",
+		"/E/MAMP/htdocs/WDC/index.php",
+		"/E/MAMP/htdocs/WDC/style/css/sass/_font.scss",
+		"/E/MAMP/htdocs/WDC/style/css/sass/_var.scss",
+		"/E/MAMP/htdocs/WDC/style/sass/main.scss",
+		"/E/MAMP/htdocs/WDC/index.html",
+		"/E/MAMP/htdocs/WDC/style/footer.html",
+		"/E/MAMP/htdocs/WDC/style/style.css",
+		"/E/MAMP/htdocs/WDC/style/_var.scss",
+		"/E/MAMP/htdocs/WDC/style/main.scss",
+		"/E/MAMP/htdocs/WDC/style/watch.bat",
+		"/E/grunt-proj/Gruntfile.js",
+		"/E/grunt-proj/index.html",
+		"/D/MAMP/htdocs/tour_and_travel2/style/scss/_var.scss",
+		"/D/MAMP/htdocs/tour_and_travel2/style/demo.css",
+		"/D/MAMP/htdocs/tour_and_travel2/style/compress.bat",
+		"/D/MAMP/htdocs/tour_and_travel2/style/style.css",
+		"/D/MAMP/htdocs/tour_and_travel2/style/scss/main.scss",
+		"/D/MAMP/htdocs/tour_and_travel2/index.php",
+		"/E/Download/IcoMoon-Free-master/Font/demo-files/demo.css",
+		"/D/MAMP/htdocs/tour_and_travel2/style/scss/_font.scss",
+		"/D/MAMP/htdocs/tour_and_travel2/style/_start_watching.bat",
+		"/C/Users/AyatMaulana-PC/Documents/bcl - cinta sejati",
+		"/D/MAMP/htdocs/CodeIgniter/application/controllers/Coba.php",
+		"/C/FPC/2.0.4/bin/diskon2.pas",
+		"/C/xampp/htdocs/mifans_crb/input.php",
+		"/C/xampp/htdocs/jquery-plugin/fullPage.js-master/oh/style/index.css",
+		"/C/xampp/htdocs/jquery-plugin/fullPage.js-master/oh/style/slideshow.css",
+		"/C/xampp/htdocs/mifans_crb/koneksi.php",
+		"/C/xampp/htdocs/jquery-plugin/fullPage.js-master/oh/backgroundVideo.html",
+		"/C/Images Slideshow [www.amirabella-zone.blogspot.com]/File HTML/Images_Slideshow.html",
+		"/C/xampp/htdocs/a.php",
+		"/C/Users/Ayat_Maulana/Desktop/popup/style.css",
+		"/C/Users/Ayat_Maulana/Desktop/popup/index.html",
+		"/C/Users/Ayat_Maulana/Desktop/popup/coba.html",
+		"/C/Users/AYAT_M~1/AppData/Local/Temp/Rar$DRa0.496/seni art.html",
+		"/C/Users/Ayat_Maulana/Desktop/popup.html",
+		"/C/xampp/htdocs/ujian_akhir_semester/hapus.php",
+		"/C/xampp/htdocs/apotek/koneksi.php",
+		"/C/xampp/htdocs/apotek/tambah_jenis_obat.php",
+		"/C/xampp/htdocs/apotek/tambah_data_obat.php",
+		"/C/xampp/htdocs/apotek/hapus_jenis_obat.php",
+		"/C/xampp/htdocs/apotek/hapus_data_obat.php",
+		"/C/xampp/htdocs/apotek/edit_data_obat.php",
+		"/C/Users/Ayat_Maulana/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/apotek/edit_jenis_obat.php",
+		"/C/xampp/htdocs/apotek/index.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/style/style.css",
+		"/C/xampp/htdocs/ujian_akhir_semester/tambah_databuku.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/tambah_penerbit.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/edit.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/index.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/view_penerbit.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/view_databuku.php",
+		"/C/xampp/htdocs/belajar.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/coba.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/pengalih.php",
+		"/C/xampp/htdocs/ujian_akhir_semester/style/demo.css",
+		"/C/xampp/htdocs/ujian_akhir_semester/db/koneksi.php",
+		"/C/xampp/htdocs/uts_latihan/index.php",
+		"/C/xampp/htdocs/uts_latihan/hapus.php",
+		"/C/xampp/htdocs/halalmart_new/jquery/jquery-1.11.2.js",
+		"/D/tag.html",
+		"/C/xampp/htdocs/uts_latihan/style/style.css",
+		"/C/xampp/htdocs/uts_latihan/form.php",
+		"/C/xampp/htdocs/uts_latihan/edit.php",
+		"/E/shades away/com.android.systemui/theme_values.xml",
+		"/E/chiwang/com.android.systemui/theme_values.xml",
+		"/E/GreenFoot/Game Greenfoot-2rpl/Akhbal Fauzihan XI-RPL - Tembak Bebek/bebek/bebekhitam.java",
+		"/C/xampp/htdocs/lks/style/style.css",
+		"/C/xampp/htdocs/mywapblog/css_mobilehigh/myprojek/css/projek.css",
+		"/C/xampp/htdocs/lks/capctca/captcha.php",
+		"/C/xampp/htdocs/my_projek/captcha/gambar.php",
+		"/C/xampp/htdocs/lks/register.php",
+		"/C/xampp/htdocs/lks/login.php",
+		"/C/xampp/htdocs/lks/logout.php",
+		"/C/xampp/htdocs/lks/daftar_barang.php",
+		"/C/xampp/htdocs/lks/index.php",
+		"/C/xampp/htdocs/uts_latihan/penampil.php",
+		"/C/xampp/htdocs/uts_latihan/koneksi.php",
+		"/C/xampp/htdocs/mywapblog/css_mobilehigh/myprojek/index.html",
+		"/C/xampp/htdocs/mywapblog/css_mobilehigh/myprojek/flambon.html",
+		"/C/xampp/htdocs/pemendek/shorten.php",
+		"/C/xampp/htdocs/pemendek/add.php",
+		"/C/xampp/htdocs/shorten",
+		"/C/xampp/htdocs/halalmart_new/info_barang.php",
+		"/C/xampp/htdocs/halalmart_new/home.php",
+		"/C/xampp/htdocs/mywapblog/css_mobilehigh/index.html",
+		"/C/xampp/htdocs/mywapblog/css_mobilehigh/style.css",
+		"/C/xampp/htdocs/halalmart_new/style/style.css",
+		"/C/xampp/htdocs/halalmart_new/beli_barang_proses.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/koneksi.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/index.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/login.php",
+		"/C/xampp/htdocs/halalmart/beli_proses.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/login_submit.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/keluar.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/display/indek.php",
+		"/C/xampp/htdocs/Ayat Maulana XI-RPL/style/style.css",
+		"/C/xampp/htdocs/css3_learn/dropdown/style.css",
+		"/C/xampp/htdocs/css3_learn/dropdown/index.html",
+		"/C/xampp/htdocs/my_projek/keluar.php",
+		"/C/xampp/htdocs/index.php",
+		"/E/htdocs/cssmenu/jquery-1.11.2.js",
+		"/E/package-sublime.txt",
+		"/E/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"true",
+			"png",
+			"\">",
+			"sukses",
+			"tombol-on",
+			"form",
+			"submit",
+			"input",
+			"menu",
+			",\n",
+			"toggle_lable_color_n",
+			"no_notification_tips_text",
+			"%;\n",
+			".js",
+			"tr",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style/css/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2306,
+								2306
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2070.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wdc.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
